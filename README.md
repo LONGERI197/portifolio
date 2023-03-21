@@ -17,7 +17,10 @@ Just click on the hyperlinks that will direct you to view Github projects.
 
 #### Live link
 
-Known Bugs
+(http://127.0.0.1:5501/index.html)
+
+### Known Bugs
+
 There are no known bugs on this project.
 
 ### Technologies Used
